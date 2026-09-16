@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#98B9C3"/>
+  <rect x="170" y="150" width="860" height="500" rx="24" fill="#3C5D67" opacity="0.72"/>
+  <circle cx="420" cy="330" r="110" fill="#EAF4F7" opacity="0.88"/>
+  <circle cx="780" cy="310" r="135" fill="#B5CCD4" opacity="0.8"/>
+  <path d="M260 530c95-110 200-165 330-170 115-6 220 28 350 160H260z" fill="#F7FAFB" opacity="0.82"/>
+  <text x="600" y="620" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="800" fill="#ffffff">Galería 03</text>
+</svg>

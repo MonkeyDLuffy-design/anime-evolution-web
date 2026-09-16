@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g6" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#B5CCD4"/>
+      <stop offset="100%" stop-color="#18343d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g6)"/>
+  <rect x="180" y="140" width="840" height="520" rx="26" fill="#ffffff" opacity="0.12"/>
+  <circle cx="390" cy="295" r="130" fill="#EAF4F7" opacity="0.8"/>
+  <circle cx="760" cy="330" r="150" fill="#98B9C3" opacity="0.85"/>
+  <path d="M220 545c120-120 245-170 360-170 115 0 240 40 360 170H220z" fill="#ffffff" opacity="0.8"/>
+  <text x="600" y="620" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" fill="#ffffff">Películas</text>
+</svg>

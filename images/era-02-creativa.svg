@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#98B9C3"/>
+  <rect x="180" y="120" width="840" height="520" rx="32" fill="#ffffff" opacity="0.12"/>
+  <circle cx="320" cy="325" r="135" fill="#B5CCD4"/>
+  <circle cx="760" cy="300" r="160" fill="#3C5D67" opacity="0.78"/>
+  <path d="M270 530c70-120 150-170 250-175 108-6 195 40 260 132 52 74 98 154 160 170H270z" fill="#EDF4F6" opacity="0.85"/>
+  <rect x="500" y="230" width="170" height="180" rx="18" fill="#F5F9FB"/>
+  <text x="600" y="610" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800" fill="#153840">Era 02</text>
+</svg>

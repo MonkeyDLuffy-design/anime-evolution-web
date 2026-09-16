@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g5" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#98B9C3"/>
+      <stop offset="100%" stop-color="#3C5D67"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g5)"/>
+  <rect x="160" y="150" width="880" height="500" rx="28" fill="#ffffff" opacity="0.1"/>
+  <circle cx="400" cy="330" r="120" fill="#EAF4F7" opacity="0.8"/>
+  <circle cx="760" cy="300" r="150" fill="#B5CCD4" opacity="0.8"/>
+  <path d="M220 535c120-118 250-180 350-180 145 0 250 48 370 180H220z" fill="#F5F8FA" opacity="0.8"/>
+  <text x="600" y="620" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" fill="#ffffff">Artículos</text>
+</svg>
